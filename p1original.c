@@ -12,7 +12,7 @@ void find_area(float base,float height,float *area)
 }
 void output(float base,float height,float area)
 {
-  printf("area of triangle :%f",area);
+  printf("area of triangle with base %fand height %fis %f",base,height,area);
 }
 int main()
 {

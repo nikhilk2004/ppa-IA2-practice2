@@ -1,1 +1,6 @@
 
+ gcc -g p1original.c
+ ./a.out
+enter any base number:5
+enter any height number:3
+area of triangle with base 5.000000and height 3.000000is 7.500000

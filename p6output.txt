@@ -1,1 +1,5 @@
 
+ gcc -g p6original.c
+ ./a.out
+enter the string :nikhil 
+the reversea of thr string is :lihkin 

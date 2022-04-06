@@ -1,4 +1,4 @@
-#include<stdio.h>
+ #include<stdio.h>
 void input_string(char *a)
 {
   printf("enter the string :");
